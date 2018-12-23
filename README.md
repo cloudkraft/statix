@@ -1,0 +1,2 @@
+# statix
+Django Sample Application
